@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App img {
   height: 80px;
 }
@@ -9,9 +5,11 @@
 .App-header {
   padding: 10px;
   margin-bottom: 50px;
+  text-align: center;
 }
 
 footer {
   margin: 50px;
   font-size: 10px;
+  text-align: center;
 }
