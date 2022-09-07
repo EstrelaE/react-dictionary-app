@@ -15,8 +15,8 @@ export default function Meaning(props) {
                 <br />
                 <em>{definition.example}</em>
                 <br />
-                <Synonyms synonyms={props.meaning.synonyms} />
               </p>
+              <Synonyms synonyms={props.meaning.synonyms} />
             </div>
           );
         } else if (index < 4) {
@@ -28,8 +28,8 @@ export default function Meaning(props) {
                 <br />
                 <em>{definition.example}</em>
                 <br />
-                <Synonyms synonyms={props.meaning.synonyms} />
               </p>
+              <Synonyms synonyms={props.meaning.synonyms} />
             </div>
           );
         } else {
