@@ -1,9 +1,23 @@
+.Dictionary section {
+  background-color: #fff7ea;
+  margin-bottom: 10px;
+  border: 2px solid #f4aa3a;
+  border-radius: 5px;
+  padding: 8px 15px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
 form {
+  margin: 15px 0;
   text-align: center;
 }
 
 h1 {
   text-align: center;
-  margin-top: 15px;
-  text-decoration: underline;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h2 {
+  text-transform: capitalize;
 }
